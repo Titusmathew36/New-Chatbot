@@ -1,2 +1,6 @@
 My name is Titus
-Edited branch1
+branch1
+
+TITUS IS NOT THAT BAD
+edited branch2
+branch2
